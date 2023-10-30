@@ -12,3 +12,6 @@ testrepo
     * Sub Point
  
 * `Important file`
+  ```bash
+  # This is a bash code
+  ```
